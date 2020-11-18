@@ -1,6 +1,6 @@
 # Peer-to-Peer-Network-using-Pastry-Protocol
 
-Peer to Peer network is built using distributed programming concepts by implementing Pastry Protocol.
+Peer to Peer network is built using distributed programming, functional programming using F# and AKKA actor framework by implementing Pastry Protocol.
 
 Pastry Protocol for network joining and routing in a peer-to-peer network as per the
 project requirement.
