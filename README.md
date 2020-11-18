@@ -18,6 +18,6 @@ the message is returned by the application.
 # How to execute
 
   1. Run the following command
-    dotnet fsi --langversion:preview project.fsx arg1 arg2
+  - dotnet fsi --langversion:preview project.fsx arg1 arg2
     - arg1 is the number of nodes/peers
     - arg2 is the number of requests/files to be transferred
