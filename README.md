@@ -13,3 +13,11 @@ request/second to randomly chosen destination nodes.
 - The application keeps track of the number of hops taken to reach the destination
 for all the requests. The average number of hops that have to be made to deliver
 the message is returned by the application.
+
+
+# How to execute
+
+  1. Run the following command
+  - dotnet fsi --langversion:preview project.fsx arg1 arg2
+    - arg1 is the number of nodes/peers
+    - arg2 is the number of requests/files to be transferred
